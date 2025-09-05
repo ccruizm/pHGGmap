@@ -1,6 +1,6 @@
 # pHGG Multiverse
 
-<img src="pHGG logo.png" alt="pHGG logo" width="500"/>
+<img src="Figures/pHGG logo.png" alt="pHGG logo" width="500"/>
 
 ## Pediatric-type Diffuse High-Grade Glioma Multiverse
 
@@ -13,7 +13,7 @@ This repository contains all code and analysis notebooks associated with:
 
 ## Graphical Abstract
 
-<img src="Graphical_abstract.png" alt="Graphical abstract" width="600"/>
+<img src="Figures/Graphical_abstract.png" alt="Graphical abstract" width="600"/>
 
 ---
 
@@ -35,6 +35,7 @@ Spatial transcriptomics datasets used for validation are available at GSE194329,
 ## Repository Structure
 
 This repo mirrors the full analysis workflow. Key directories:
+```
 ├── 01_Preprocessing
 │   ├── 01_GEX
 │   │   ├── 01a_tidying_up_matrices_plus_doublet_detection_estimates_Ruiz2023.ipynb
@@ -160,7 +161,7 @@ This repo mirrors the full analysis workflow. Key directories:
 │       ├── Fig S6X heatmap tangram markers.ipynb
 │       ├── Fig S6X Tangram prediction scores heatmap.ipynb
 │       └── Fig S6X - This one is the heatmap of marker of tanmgram cosmx.ipynb
-
+```
 Each notebook/script is named by the figure panel or method step it supports, enabling reproducibility.
 
 ---
