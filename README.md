@@ -19,7 +19,7 @@ This repository contains all code and analysis notebooks associated with:
 
 The processed **discovery cohort** (sc/nRNA, snATAC, snMultiome) is publicly deposited at Zenodo:
 
-➡️ **DOI: [10.5281/zenodo.17061825](https://doi.org/10.5281/zenodo.17063631)**  
+➡️ **DOI: [10.5281/zenodo.17063631](https://doi.org/10.5281/zenodo.17063631)**  
 
 Data includes:
 - sc/nRNA (GEX) (`.cloupe`, `.rds`, `.h5ad`, raw filtered `.h5` + metadata CSVs)  
