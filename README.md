@@ -13,7 +13,9 @@ This repository contains all code and analysis notebooks associated with:
 
 ## Graphical Abstract
 
-<img src="Figures/Graphical abstract.png" alt="Graphical abstract" width="600"/>
+<p align="center">
+  <img src="Figures/Graphical abstract.png" alt="Graphical abstract" width="600"/>
+</p>
 
 ---
 
