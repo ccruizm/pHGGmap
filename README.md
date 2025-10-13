@@ -1,17 +1,19 @@
-# pHGG Multiverse
+# pHGGmap
 
-<img src="Figures/pHGG logo.png" alt="pHGG logo" width="500"/>
+<p align="center">
+  <img src="Figures/pHGGmap logo.png" alt="pHGGmap logo" width="500"/>
+</p>
 
 This repository contains all code and analysis notebooks associated with:
 
 > **Ruiz-Moreno C. & Collot R., et al.**  
-> *Cancer and myeloid programs coordinate multicellular communities and invasive features of pediatric-type diffuse high-grade glioma.* (2025)
+> *A high-resolution multimodal map  reveals cancer-myeloid coordination and invasive program in pediatric high-grade glioma.* (2025)
 
 ---
 
 ## Graphical Abstract
 
-<img src="Figures/Graphical_abstract.png" alt="Graphical abstract" width="600"/>
+<img src="Figures/Graphical abstract.png" alt="Graphical abstract" width="600"/>
 
 ---
 
@@ -184,7 +186,7 @@ For complete details, see the **Methods** in the manuscript.
 If you use these resources, please cite:
 
 > Ruiz-Moreno C. & Collot R., et al.  
-> *Cancer and myeloid programs coordinate multicellular communities and invasive features of pediatric-type diffuse high-grade glioma.* (2025).
+> *A high-resolution multimodal map  reveals cancer-myeloid coordination and invasive program in pediatric high-grade glioma.* (2025).
 
 ---
 
@@ -196,4 +198,4 @@ We thank the patients and families who contributed to this research, the clinica
 
 ## Contact
 
-- Technical/data/code: **Cristian Ruiz-Moreno** – [GitHub Issues](https://github.com/ccruizm/pHGG_multiverse/issues)
+- Technical/data/code: **Cristian Ruiz-Moreno** – [GitHub Issues](https://github.com/ccruizm/pHGGmap/issues)
