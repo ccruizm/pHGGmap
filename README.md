@@ -178,25 +178,7 @@ pHGGmap
 │   ├── 05a_paga_blood_ascites_myeloid.ipynb
 │   ├── 05b_mapping_myeloid_ascites_to_Nieto2021.ipynb
 │   ├── 06_overlap_RG_complement_TAM.ipynb
-│   ├── 07_cell_dynamics_pre_post_ttx.ipynb
-│   └── case_report
-│       ├── bridge_integration_and_creating_multiome_fetal.ipynb
-│       ├── bridge_integration_subset.ipynb
-│       ├── bridge_integration_subset_malignant.ipynb
-│       ├── case_report.ipynb
-│       ├── case_report_PLOTTING.ipynb
-│       ├── epichaos_dmg_malignant.ipynb
-│       ├── export_barcodes_for_numbat.ipynb
-│       ├── inferCNV_case_report_ascites_cell_ref.ipynb
-│       ├── inferCNV_case_report_ascites.ipynb
-│       ├── SCEVAN_case_report.ipynb
-│       ├── signac_dmg_atlas.ipynb
-│       ├── signac_dmg_malignant_full.ipynb
-│       ├── signac_dmg_malignant.ipynb
-│       ├── signac_dmg_malignant_PLOTTING.ipynb
-│       ├── trajectory_case_report_primary_firstttx_rna_python.ipynb
-│       ├── trajectory_case_report_primary_firstttx_rna_python_PLOTTING.ipynb
-│       └── trajectory_case_report_rna_python.ipynb
+│   └── 07_cell_dynamics_pre_post_ttx.ipynb
 ├── 10_Technical_note
 │   ├── 01_explianed_variability.ipynb
 │   ├── 02_celltype_composition_analysis_LTSR_cell_vs_nucleus.ipynb
